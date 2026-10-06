@@ -1,0 +1,26 @@
+User login report
+
+Currently logged-in users:
+shubhagrawal
+
+Current logged users time: shubhagrawal 1790244866.0
+
+Number of logged-in users:
+1
+
+suser(name='shubhagrawal', terminal='console', host='localhost', started=1790244866.0, pid=399) +  is not currently logged in.
+
+Last 10 users logins:
+shubhagrawal console                         Thu Sep 24 15:44   still logged in
+reboot time                                Thu Sep 24 15:43
+shubhagrawal console                         Sat Sep 19 15:54 - 15:43 (4+23:49)
+reboot time                                Sat Sep 19 15:53
+shubhagrawal ttys000                         Wed Sep  9 14:40 - 14:40  (00:00)
+shubhagrawal ttys001                         Tue Sep  8 00:05 - 00:05  (00:00)
+shubhagrawal ttys000                         Sun Sep  6 16:25 - 16:25  (00:00)
+shubhagrawal console                         Sun Sep  6 16:18 - 15:52 (12+23:34)
+reboot time                                Sun Sep  6 16:18
+shutdown time                              Sun Sep  6 16:18
+
+Number of unique users who logged in: 
+1

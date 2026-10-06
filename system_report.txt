@@ -1,0 +1,19 @@
+<=====System Information Report====>
+
+Current date and time:
+2026-09-01 20:22:17.737482
+
+Current user:
+shubhagrawal
+
+Hostname:
+Shubhs-MacBook-Air.local
+
+Current working directory:
+/Users/shubhagrawal/Library/Mobile Documents/com~apple~CloudDocs/Books and Notes/IITB Sem 1/Software lab/Assignments/assignment 4
+
+Available Disk Space:
+Total: 228.27 GB
+Used: 201.98 GB
+Free: 26.29 GB
+
