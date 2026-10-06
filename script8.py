@@ -43,6 +43,6 @@ with open(report, "w") as f:
 
     f.write("The most recent logins:\n")
     f.write("\n".join(last_lines[:3]) + "\n")
-
+    # different comment than main
 
 print("Report saved successfully, check", report, "for further details!")
